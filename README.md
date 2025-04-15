@@ -1,6 +1,6 @@
 ## 🏌️‍♂️ Sidcup Family Golf – 3D Animated Website Clone
 
-Welcome to the **Sidcup Family Golf** project – a visually immersive and interactive frontend recreation inspired by the official Sidcup Family Golf website. This project showcases advanced **HTML, CSS, JavaScript**, and **GSAP (GreenSock Animation Platform)** skills, offering an engaging UI/UX with 3D effects, animations, and responsive design.
+Welcome to the **Sidcup Family Golf** project – a visually immersive and interactive frontend recreation inspired by the official Sidcup Family Golf website. This project showcases advanced **HTML, CSS, JavaScript**, and **GSAP (GreenSock Animation Platform)** skills, offering an engaging UI/UX with 3D effects and animations.
 
 ---
 
@@ -8,7 +8,6 @@ Welcome to the **Sidcup Family Golf** project – a visually immersive and inter
 
 - ✨ Smooth scroll animations using **GSAP**
 - 🌀 3D and parallax effects for visual appeal
-- 📱 Fully responsive across all screen sizes
 - 🎯 Interactive UI elements
 - 🌐 Modern and clean website layout
 
@@ -22,15 +21,6 @@ Welcome to the **Sidcup Family Golf** project – a visually immersive and inter
 - **GSAP (GreenSock)**
 - **Locomotive Scroll (for smooth scrolling)**
 - **ScrollTrigger**
----
-
-### 🧠 What I Learned
-
-- Integrating complex scroll animations using GSAP and ScrollTrigger
-- Implementing smooth scrolling and 3D parallax effects
-- Building pixel-perfect responsive layouts
-- Enhancing UI with motion design principles
-
 ---
 
 ### 📂 Getting Started
